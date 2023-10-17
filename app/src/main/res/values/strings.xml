@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Popular Books</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="profile">Profile</string>
+    <string name="favourites">Favourites</string>
+    <string name="about_app">About App</string>
+    <string name="navigationview">NavigationView</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="about_the_book">About the book</string>
+    <string name="name_of_author">Name of Author</string>
+    <string name="name_of_book">Name of Book</string>
+    <string name="this_is_book_image">This is Book Image</string>
+    <string name="share">Share</string>
+    <string name="aboutInfo">An Android book app developer is a professional who specializes in creating mobile applications for the Android operating system, specifically tailored for reading and accessing digital books. They possess a strong understanding of mobile app development, Java or Kotlin programming languages, and Android Studio, the primary development environment for Android apps. These developers design user-friendly interfaces, implement features like e-book downloading, bookmarking, and text customization, and often integrate e-commerce functionality for purchasing books. Additionally, they stay updated on the latest Android platform updates and user experience trends to deliver high-quality book apps that provide a seamless reading experience to users.</string>
+    <string name="person_image">person Image</string>
+    <string name="some_popular_international_books">Some popular international books</string>
+    <string name="developed_by">Developed By:</string>
+    <string name="rahul_kumar_maury">Rahul Kumar Maury</string>
+    <string name="image_view">image view</string>
+    <string name="underscore">______________________________________________________</string>
+</resources>
