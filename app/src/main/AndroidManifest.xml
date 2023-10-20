@@ -17,8 +17,18 @@
         android:theme="@style/Theme.Nav"
         tools:targetApi="31">
         <activity
-            android:name=".activity.SplashScreen"
+            android:name=".LoginScreen.SingUpActivity"
+            android:exported="false" />
+
+
+        <activity
+            android:name=".LoginScreen.LoginActivity"
             android:exported="true" >
+
+        </activity>
+        <activity
+            android:name=".activity.SplashScreen"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -31,9 +41,7 @@
             android:parentActivityName=".activity.MainActivity" />
         <activity
             android:name=".activity.MainActivity"
-            android:exported="false">
-
-        </activity>
+            android:exported="false" />
     </application>
 
 </manifest>
